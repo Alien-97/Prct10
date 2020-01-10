@@ -4,7 +4,7 @@ require "huella_nutricional/lista"
 require "huella_nutricional/PlatoHuellaNutricional"
 require "huella_nutricional/PlatoHuellaAmbiental"
 require "huella_nutricional/menu"
-#ddd
+#ddd añadido el travis
 module HuellaNutricional
   class Error < StandardError; end
   # Your code goes here...
