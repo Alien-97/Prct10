@@ -1,6 +1,6 @@
 
 # Clase Alimento que almacena información nutricional y de
-# eficiencia  energética de un alimento.
+# eficiencia  energética de un alimento. Clase Alimento
 #
 # @author Alien Embarec Riadi
 #
